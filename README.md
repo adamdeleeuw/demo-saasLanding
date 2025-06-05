@@ -1,4 +1,4 @@
-# TaskFlow - SaaS Landing Page Demo
+# ProdSaas - SaaS Landing Page Demo
 
 A modern, responsive SaaS landing page built with Next.js and Tailwind CSS. This is a demo project showcasing web development capabilities.
 
@@ -31,7 +31,7 @@ A modern, responsive SaaS landing page built with Next.js and Tailwind CSS. This
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/taskflow-demo.git
+git clone https://github.com/adamdeleeuw/demo-saasLanding.git
 cd demo-saasLanding
 \`\`\`
 
