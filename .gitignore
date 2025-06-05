@@ -8,6 +8,7 @@
 
 # production
 /build
+/out/           # Add this line to ignore the out directory
 
 # debug
 npm-debug.log*
