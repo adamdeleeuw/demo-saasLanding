@@ -49,7 +49,13 @@ npm run dev
 
 ## Demo
 
-🚀 **Live Demo:** [https://adamdeleeuw.github.io/demo-saasLanding/)](https://adamdeleeuw.github.io/demo-saasLanding/)
+🚀 **Live Demo:** [https://adamdeleeuw.github.io/demo-saasLanding/](https://adamdeleeuw.github.io/demo-saasLanding/)
+
+## Deployment
+
+GitHub Actions automatically builds and exports the site to the `gh-pages` branch
+whenever changes are pushed to `main`. Pages is configured to deploy from this
+branch so the latest build is always served.
 
 ## License
 
