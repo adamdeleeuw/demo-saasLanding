@@ -10,7 +10,9 @@ const nextConfig = {
   },
   images: {
     unoptimized: true
-  }
+  },
+  basePath: '/demo-saasLanding',
+  assetPrefix: '/demo-saasLanding/',
 }
 
 export default nextConfig

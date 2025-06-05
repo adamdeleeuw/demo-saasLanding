@@ -49,7 +49,7 @@ npm run dev
 
 ## Demo
 
-🚀 **Live Demo:** (need to fill**)
+🚀 **Live Demo:** [https://adamdeleeuw.github.io/demo-saasLanding/)](https://adamdeleeuw.github.io/demo-saasLanding/)
 
 ## License
 
