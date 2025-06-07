@@ -30,26 +30,26 @@ A modern, responsive SaaS landing page built with Next.js and Tailwind CSS. This
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/adamdeleeuw/demo-saasLanding.git
-cd demo-saasLanding
-\`\`\`
+   ```bash
+   git clone https://github.com/adamdeleeuw/demo-saasLanding.git
+   cd demo-saasLanding
+   ```
 
 2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
+   ```bash
+   npm install
+   ```
 
 3. Run the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
+   ```bash
+   npm run dev
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Demo
 
-🚀 **Live Demo:** [https://adamdeleeuw.github.io/demo-saasLanding/](https://adamdeleeuw.github.io/demo-saasLanding/)
+🚀 **Live Demo:** [https://demo-saas-landing.vercel.app/](https://demo-saas-landing.vercel.app/)
 
 ## Deployment
 
